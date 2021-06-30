@@ -94,24 +94,3 @@ animation: cloud 20s linear infinite;
     }
 }
 
-    /* The animation code */
-    @keyframes example {
-        from {background-color: red;}
-        to {background-color: yellow;}
-      }
-      
-      /* The element to apply the animation to */
-      .divv {
-        width: 100px;
-        height: 100px;
-        background-color: red;
-        animation-name: example;
-        animation-duration: 4s;
-      }
-      .center {
-        font-family: 'Times New Roman', serif;
-        margin: auto;
-        text-align: center;
-        width: 50%;
-        padding: 10px;
-      }
