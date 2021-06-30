@@ -30,7 +30,7 @@ body {
   background-image: linear-gradient(to bottom right, rgba(0,47,75,.6), rgba(0,0,0,.6));
 }
 
-.Hero-container {
+.Hero-containere {
   display: grid;
   grid-template-columns: minmax(auto,1280px);
   justify-content: center;
